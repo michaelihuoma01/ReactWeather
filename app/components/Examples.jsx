@@ -11,7 +11,7 @@ var Examples = (props) => {
           <Link to="/?location=Rumuowkrusi">Rumuowkrusi, Port Harcourt</Link>
         </li>
         <li>
-          <Link to="/?location=Jibowu">Jibowu, Lagos</Link>
+          <Link to="/?location=Abonnema">Abonnema, Rivers</Link>
         </li>
       </ol>
     </div>
