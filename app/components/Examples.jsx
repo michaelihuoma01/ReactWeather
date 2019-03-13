@@ -8,10 +8,10 @@ var Examples = (props) => {
       <p>Here are a few example locations to try out:</p>
       <ol>
         <li>
-          <Link to="/?location=Rumuowkrusi">Rumuowkrusi, Port Harcourt</Link>
+          <Link to="/?location=Port Harcourt">Port Harcourt, Rivers State</Link>
         </li>
         <li>
-          <Link to="/?location=Abonnema">Abonnema, Rivers</Link>
+          <Link to="/?location=Lagos">Lagos, Nigeria</Link>
         </li>
       </ol>
     </div>
